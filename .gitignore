@@ -1,0 +1,8 @@
+# Ignore Builds directory
+**/Builds/
+
+# Ignore JuceLibraryCode directory
+**/JuceLibraryCode/
+
+# Ignore .DDS_Store files
+**/.DS_Store
